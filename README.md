@@ -23,7 +23,11 @@
 
 ## 安装皮肤
 
-在 iPhone 上下载 `.deltaskin`，打开该文件并选择使用 Delta 导入；然后在 Delta 的 NDS 控制器皮肤设置中选择它。如果系统界面不同，请参考 [Delta 官方皮肤导入说明](https://faq.deltaemulator.com/using-delta/controller-skins)。
+1. 使用上面的皮肤下载链接，将 `Abra-Crystal-Big-Screen-Duo.deltaskin` 保存到 iPhone 的「文件」App。**不要解压**，也不要下载整个仓库的 ZIP 来代替这个文件。
+2. 打开 Delta，在游戏库点「+」，选择「Files / 文件」，选中这个 `.deltaskin` 文件导入。也可以从 Delta 设置中的「Controller Skins / 控制器皮肤」进入对应游戏系统后导入。
+3. 导入后，在「Controller Skins / 控制器皮肤」中选择 Nintendo DS、所需方向，再选择 **Abra Crystal · Big Screen Duo**。不同版本的界面文字可能略有不同，详见 [Delta 官方导入说明](https://faq.deltaemulator.com/using-delta/controller-skins)。
+
+本皮肤面向 **iPhone Duo 的 inner/outer 设备形态**；使用支持 iPhone Duo 的 Delta 版本（官方从 [Delta 2.0](https://faq.deltaemulator.com/release-notes) 开始列出 Duo 支持）。它没有为普通 iPhone 的 standard/edgeToEdge 模式或 iPad 提供专用布局，因此即使成功导入，也不保证能在这些设备上选择或正常显示。当前仅完成静态检查，尚未完成真机导入测试。
 
 ## 使用制作技能
 
